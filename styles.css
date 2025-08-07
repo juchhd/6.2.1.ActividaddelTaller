@@ -20,6 +20,13 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+    
+.link-button:hover {
+        background-color: #2980b9;
+        color: white;
+        transform: scale(1.1);
+    }
+
 
 h1{
     text-align: center;
